@@ -38,6 +38,6 @@ else:
     #st.write("Click on an image to view it:")
     st.write("Nothing to see here. This is strictly confidential Secret Santa Stuff")
 
-    for image in images:
-        image_url = f"?image={image}"  # This is how the image will be accessed via URL
-        st.markdown(f"[{image}]({image_url})")
+    #for image in images:
+    #    image_url = f"?image={image}"  # This is how the image will be accessed via URL
+    #    st.markdown(f"[{image}]({image_url})")
